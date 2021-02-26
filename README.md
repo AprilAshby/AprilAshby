@@ -7,7 +7,8 @@ My favorite memories of my childhood are going on crazy adventures hiking with m
 ![Hiking with dad](https://user-images.githubusercontent.com/11523076/109339263-a0640f80-7824-11eb-8b31-f5c285d98456.jpg)
 
 I also love to design, build, and generally make things. Checkout my YouTube channel [Ronin Makes!](https://www.youtube.com/channel/UCK_vYVjTH87uocFYAbkJQlQ)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=zOxiyetVy-8&t=11s)
+
+[![Building a trellis](https://user-images.githubusercontent.com/11523076/109340820-bd99dd80-7826-11eb-9bbb-0ae21502c405.PNG)](https://www.youtube.com/watch?v=zOxiyetVy-8&t=11s)
 
 As a full stack web developer I get to use my knowledge in HTML, CSS, JavaScript, Node, and Python to build exciting systems everyday. I also get to see ecology from another perspective and contribute to the conversation on using technology to better our world. 
 
